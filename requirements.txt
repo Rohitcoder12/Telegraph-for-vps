@@ -1,5 +1,4 @@
 python-dotenv
-python-telegram-bot[webhooks]==21.1.1
+python-telegram-bot[job-queue,webhooks]==21.1.1
 requests
 telethon
-gunicorn
