@@ -2,9 +2,9 @@ import os
 from telethon.sync import TelegramClient
 
 # Get the API credentials from the user
-api_id = input("Please enter your API ID: ")
-api_hash = input("Please enter your API HASH: ")
-phone = input("Please enter your phone number with country code: ")
+api_id = input("27073191")
+api_hash = input("1a32be9bed70c354d9ffc4c83034d641")
+phone = input("+919369765536")
 
 # Create the client and connect
 print("Connecting to Telegram...")
